@@ -1,0 +1,38 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+header{
+    background-image: url("https://wallpapercave.com/wp/wp2586787.jpg");
+    width: 100%;
+    height: 61rem;
+    text-align: center  ;
+}
+.fa-play{
+    font-size: 100px;
+    color: rgba(78, 78, 78, 0.623);
+    border: none;
+    margin-top: 15%;
+}
+header h1{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: rgba(0, 0, 0, 0.637);
+}
+.skins{
+    margin-top: 14.5%;
+}
+.second{
+    background-image: url("https://mcpe-craft.ru/wp-content/uploads/2022/07/minecraft-pe-1-19-11-1200x800-c-default.jpg")  ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 73rem;
+}
+.third{
+    background-image: url("https://pe-world.ru/uploads/posts/2018-06/1529743290_photo_2018-06-23_11-14-23-2-min.jpg")  ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 73rem;
+}
